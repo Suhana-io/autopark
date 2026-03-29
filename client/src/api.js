@@ -1,3 +1,3 @@
-const API_URL = 'http://192.168.1.4:5000'
+const API_URL = 'https://autopark-backend-506o.onrender.com'
 
 export default API_URL
